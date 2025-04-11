@@ -21,7 +21,7 @@ This weather app fetches current weather data from the OpenWeatherMap API. When 
 What makes this app unique is that it dynamically changes the background video based on the current weather conditions. For example, if it's raining in the searched city, a rain video will play in the background. This creates an immersive and visually appealing experience.
 
 ## Demo
-View Live Demo:
+View Live Site: https://weathermotion.netlify.app/
 
 ## Deployment
 This project is deployed using Netlify for seamless continuous deployment.
