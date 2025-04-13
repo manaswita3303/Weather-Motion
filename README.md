@@ -1,6 +1,8 @@
 # Weather Motion
 A beautiful, responsive weather application that displays real-time weather information with dynamic video backgrounds that change based on current weather conditions.
 
+** Live Site: ** https://weathermotion.netlify.app/
+
 ## Features
 1. Search for weather information by city name
 2. Real-time weather data including temperature, humidity, and wind speed
